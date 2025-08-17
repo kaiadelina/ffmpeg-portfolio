@@ -12,7 +12,7 @@ type VideoItem = {
 };
 
 const images: ImageItem[] = [
-  { src: "images/01.jpg", alt: "Пример работы 1" },
+  { src: "images/01.jpg", alt: "Пример работы 1   " },
   { src: "images/02.jpg", alt: "Пример работы 2" },
   { src: "images/03.jpg", alt: "Пример работы 3" },
   { src: "images/04.jpg", alt: "Пример работы 4" },
