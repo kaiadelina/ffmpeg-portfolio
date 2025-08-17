@@ -6,10 +6,8 @@
   "homepage": "https://kaiadelina.github.io/ffmpeg-portfolio",
   "scripts": {
   "dev": "vite",
-  "build": "vite build",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
-},
+  "build": "vite build"
+  },
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
